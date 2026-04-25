@@ -98,4 +98,8 @@
 
 <br clear="both">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vikee-code/vikee-code/output/snake.svg" />
+</p>
+
 ###
