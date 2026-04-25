@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Rafif and I'm a System Analyst, from Indonesia</h2>
 
-#
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -99,7 +97,5 @@
 ##
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
