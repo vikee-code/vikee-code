@@ -40,7 +40,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 ###
 <!-- HERO CARD -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikee-code&theme=dracula" width="76%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikee-code&theme=dracula" width="90%"/>
 </div>
 <!-- STATS -->
 <div align="center">
