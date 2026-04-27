@@ -1,5 +1,9 @@
 <h2 align="left">Hi!👋 My name is Rafif and I'm a System Analyst, from the Big Durian (Jakarta) - Indonesia </h2>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7768E&center=true&vCenter=true&width=600&lines=Nice+to+Meet+You+!;System+Analyst;Bridging+Business+%26+Technology;Aspiring+Software+Engineer;Let's+Connect+^^" />
+</div>
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -34,15 +38,18 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 <h3 align="left">⚡ My Stats :</h3>
 
 ###
-
+<!-- HERO CARD -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikee-code&show_icons=true&theme=dracula&cache_seconds=86400" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikee-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikee-code&theme=dracula" width="76%"/>
 </div>
-
+<!-- STATS -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vikee-code&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikee-code&show_icons=true&theme=dracula&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikee-code&layout=compact&theme=dracula&hide_border=true" height="200"/>
+</div>
+<!-- STREAK -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vikee-code&theme=dracula&hide_border=true" height="200"/>
 </div>
 
 ###
@@ -64,9 +71,9 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
   <img width="12" />
@@ -125,6 +132,10 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
   <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-plain.svg" height="30" alt="moodle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="gcp logo"  />
 </div>
 
 ###
@@ -134,10 +145,22 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://discord.com/users/1004182087953289276" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35"/>
+  </a>
+  
+  <a href="mailto:m.rafif.alhakim.prof@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mrafif-alhakim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  
+  <a href="https://dev.to/vikeecode" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="35"/>
+  </a>
+</div>
 
 ##
 
