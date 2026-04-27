@@ -141,7 +141,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 <br clear="both">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vikee-code/vikee-code/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/vikee-code/vikee-code/output/snake-dark.svg" />
 </p>
 
 ###
