@@ -4,7 +4,27 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I’m a System Analyst with proven experience in enhancing enterprise applications, improving system reliability, and optimizing operational workflows. I work closely with cross-functional teams to solve complex problems using a root-cause-driven approach.
+
+My expertise is centered around requirement gathering, software development lifecycle (SDLC), project management, and problem-solving. I also bring hands-on technical skills in SQL, system and business process analysis, and UI/UX—allowing me to bridge the gap between business needs and technical implementation effectively.
+
+While my GitHub may not yet fully reflect my technical capabilities, I’m actively working to change that. I’m currently diving deeper into software development and hands-on implementation, aiming to strengthen my engineering skills and build meaningful, real-world projects.<br>
+
+<br> 🧠 Skills & Interests
+- System Analysis & Business Process Improvement  
+- Software Development Lifecycle (SDLC), Testing & QA  
+- Project Management & Stakeholder Communication  
+- Design Thinking & User-Centered Solutions  
+- SQL & Database Management (Querying, Optimization, Data Analysis)  
+- Basic Software Development (API, Backend Logic, Debugging) <br>
+
+<br> 🏆 Achievements & Certifications
+- 🧩 IBM Enterprise Design Thinking Practitioner  
+- ☁️ Microsoft Azure AI Fundamentals  
+- 🔗 SAP Business Process Integration w/ SAP S/4HANA  
+- 🇬🇧 English for IT (Pearson)  
+- 🏅 Finalist – Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi (GEMASTIK) XV & XVI, ISFest 2023 <br>
+</p>
 
 #
 
