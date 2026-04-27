@@ -10,14 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate snake (light + dark)
         uses: Platane/snk@v3
         with:
           github_user_name: vikee-code
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg
-          palette: github-dark
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
