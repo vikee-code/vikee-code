@@ -28,7 +28,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 
 #
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">⚡ My Stats :</h3>
 
 ###
 
