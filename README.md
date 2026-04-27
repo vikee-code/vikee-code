@@ -1,14 +1,17 @@
-<h2 align="left">Hi 👋! My name is Rafif and I'm a System Analyst, from Indonesia</h2>
+<h2 align="left">Hi!👋 My name is Rafif and I'm a System Analyst, from the Big Durian (Jakarta) - Indonesia </h2>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+<p align="left">
+🧑‍💼 System Analyst @ Bina Nusantara IT Division  | 🎓 Information Systems Graduate Class of 2025 – BINUS University  
 
-<p align="left">I’m a System Analyst with proven experience in enhancing enterprise applications, improving system reliability, and optimizing operational workflows. I work closely with cross-functional teams to solve complex problems using a root-cause-driven approach.
+I’m a System Analyst with proven experience in enhancing enterprise applications, improving system reliability, and optimizing operational workflows. I work closely with cross-functional teams to solve complex problems using a root-cause-driven approach.
 
 My expertise is centered around requirement gathering, software development lifecycle (SDLC), project management, and problem-solving. I also bring hands-on technical skills in SQL, system and business process analysis, and UI/UX—allowing me to bridge the gap between business needs and technical implementation effectively.
 
-While my GitHub may not yet fully reflect my technical capabilities, I’m actively working to change that. I’m currently diving deeper into software development and hands-on implementation, aiming to strengthen my engineering skills and build meaningful, real-world projects.<br>
+While my GitHub may not yet fully reflect my technical capabilities, I’m actively working to change that. I’m currently diving deeper into software development and hands-on implementation, aiming to strengthen my engineering skills and build meaningful, real-world projects.
+<br>
 
 <br> 🧠 Skills & Interests
 - System Analysis & Business Process Improvement  
@@ -33,7 +36,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikee-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikee-code&show_icons=true&theme=dracula&cache_seconds=86400" height="150" alt="stats graph"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikee-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
