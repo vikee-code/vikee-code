@@ -1,10 +1,10 @@
-<h2 align="left">Hi!👋 My name is Rafif and I'm a System Analyst, from the Big Durian (Jakarta) - Indonesia </h2>
+<h2 align="left">Hi!👋 My name is Rafif and I'm a System Analyst, from the Big Durian (Jakarta) </h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7768E&center=true&vCenter=true&width=600&lines=Nice+to+Meet+You+!;System+Analyst;Bridging+Business+%26+Technology;Aspiring+Software+Engineer;Let's+Connect+^^" />
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">ℹ️  About Me</h3>
 
 ###
 <p align="left">
@@ -30,7 +30,21 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 - ☁️ Microsoft Azure AI Fundamentals  
 - 🔗 SAP Business Process Integration w/ SAP S/4HANA  
 - 🇬🇧 English for IT (Pearson)  
-- 🏅 Finalist – Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi (GEMASTIK) XV & XVI, ISFest 2023 <br>
+- 🏅 Finalist – Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi (GEMASTIK) XV & XVI, ISFest 2023 2nd Place Winner <br>
+</p>
+
+<h3 align="left">⛰️ Chill Corner</h3>
+<a href="https://drive.google.com/file/d/1HUD1P27-TLU2ENVvl49e-0L6_2GLYc46/view?usp=drive_link">
+  <img src="./assets/thumbnail.png" width="420"/>
+</a>
+
+<br>
+<sub>📸 Source: <a href="https://instagram.com/vancity_bubbles" target="_blank">vancity_bubbles</a></sub>
+
+<br><br>
+
+<i>"Great systems aren’t just built for performance — they’re built with empathy, clarity, and purpose."</i>
+
 </p>
 
 #
@@ -57,7 +71,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
+<!-- ICONS -->
 <div align="left">
   <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -138,12 +152,14 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="gcp logo"  />
 </div>
 
+
+
 ###
 
 <h3 align="left">👤 Contact me</h3>
 
 ###
-
+<!-- CONTACT LOGO -->
 <div align="left">
   <a href="https://discord.com/users/1004182087953289276" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35"/>
