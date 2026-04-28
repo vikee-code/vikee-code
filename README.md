@@ -1,4 +1,4 @@
-<h2 align="left">Hi!👋 My name is Rafif and I'm a System Analyst, from the Big Durian (Jakarta) </h2>
+<h2 align="left">Hi!👋 My name is Rafif and I'm a System Analyst, from the "Big Durian" (Jakarta) </h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7768E&center=true&vCenter=true&width=600&lines=Nice+to+Meet+You+!;System+Analyst;Bridging+Business+%26+Technology;Aspiring+Software+Engineer;Let's+Connect+^^" />
