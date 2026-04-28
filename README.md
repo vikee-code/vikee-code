@@ -173,7 +173,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 
 ###
 <!-- HEADER SECTION -->
-<h3 align="left">👤 Contact me</h3>
+<h3 align="left">👤 My Contact </h3>
 
 ###
 <!-- CONTACT LOGO -->
