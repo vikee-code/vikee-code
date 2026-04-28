@@ -12,27 +12,15 @@
 <p align="left">
 🧑‍💼 System Analyst @ Bina Nusantara IT Division  | 🎓 Information Systems Graduate Class of 2025 – BINUS University  
 
-I’m a System Analyst with proven experience in enhancing enterprise applications, improving system reliability, and optimizing operational workflows. I work closely with cross-functional teams to solve complex problems using a root-cause-driven approach.
+An Analyst @Binus who break down complex problems for a living into clean, scalable solutions. I spent most of my time bridging the gap between business requirements and technical implementation.
+Right now, I'm shifting gears to get my hands dirty with more code. While my GitHub is a work in progress, I’m actively diving deeper into Software Engineering to build more than just documentation — I want to build the actual products.
 
-My expertise is centered around requirement gathering, software development lifecycle (SDLC), project management, and problem-solving. I also bring hands-on technical skills in SQL, system and business process analysis, and UI/UX—allowing me to bridge the gap between business needs and technical implementation effectively.
+<br> What I bring to the table:
+- 📊 Analysis: SDLC, UI/UX, & Business Process Improvement.
+- 🛠️ Technical: SQL, Project Management, QA-Testing, API logic, & Database Management.
+- 🧠 Mindset: Root-cause driven & Design Thinking enthusiast. <br>
 
-While my GitHub may not yet fully reflect my technical capabilities, I’m actively working to change that. I’m currently diving deeper into software development and hands-on implementation, aiming to strengthen my engineering skills and build meaningful, real-world projects.
-<br>
-
-<br> 🧠 Skills & Interests
-- System Analysis & Business Process Improvement  
-- Software Development Lifecycle (SDLC), Testing & QA  
-- Project Management & Stakeholder Communication  
-- Design Thinking & User-Centered Solutions  
-- SQL & Database Management (Querying, Optimization, Data Analysis)  
-- Basic Software Development (API, Backend Logic, Debugging) <br>
-
-<br> 🏆 Achievements & Certifications
-- 🧩 IBM Enterprise Design Thinking Practitioner  
-- ☁️ Microsoft Azure AI Fundamentals  
-- 🔗 SAP Business Process Integration w/ SAP S/4HANA  
-- 🇬🇧 English for IT (Pearson)  
-- 🏅 Finalist – Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi (GEMASTIK) XV & XVI, ISFest 2023 2nd Place Winner <br>
+<br> Always open to collaborating on meaningful projects! 😁 <br>
 </p>
 
 <br>
