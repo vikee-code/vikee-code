@@ -42,7 +42,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
   <img src="./assets/cat_orange.gif" width="1000"/>
 </a>
 <br>
-<sub>📸 Source: 
+<sub>📸 Source @Instagram: 
   <a href="https://instagram.com/vancity_bubbles" target="_blank">
     vancity_bubbles
   </a>
