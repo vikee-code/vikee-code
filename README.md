@@ -12,7 +12,7 @@
 <p align="left">
 🧑‍💼 System Analyst @ Bina Nusantara IT Division  | 🎓 Information Systems Graduate Class of 2025 – BINUS University  
 
-An Analyst @Binus who break down complex problems for a living into clean, scalable solutions. I spent most of my time bridging the gap between business requirements and technical implementation.
+An Analyst @BINUS who break down complex problems for a living into clean, scalable solutions. I spent most of my time bridging the gap between business requirements and technical implementation.
 Right now, I'm shifting gears to get my hands dirty with more code. While my GitHub is a work in progress, I’m actively diving deeper into Software Engineering to build more than just documentation — I want to build the actual products.
 
 <br> What I bring to the table:
