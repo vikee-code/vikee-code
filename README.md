@@ -33,18 +33,31 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 - 🏅 Finalist – Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi (GEMASTIK) XV & XVI, ISFest 2023 2nd Place Winner <br>
 </p>
 
-<h3 align="left">⛰️ Chill Corner</h3>
-<a href="https://drive.google.com/file/d/1HUD1P27-TLU2ENVvl49e-0L6_2GLYc46/view?usp=drive_link">
-  <img src="./assets/thumbnail.png" width="420"/>
-</a>
+<h3 align="left">🌿 Tranquility </h3>
 
+<p align="center">
+<a href="./assets/cat_orange.gif">
+  <img src="./assets/cat_orange.gif" width="1000"/>
+</a>
 <br>
-<sub>📸 Source: <a href="https://instagram.com/vancity_bubbles" target="_blank">vancity_bubbles</a></sub>
+<sub>📸 Source: 
+  <a href="https://instagram.com/vancity_bubbles" target="_blank">
+    vancity_bubbles
+  </a>
+</sub>
 
 <br><br>
 
-<i>"Great systems aren’t just built for performance — they’re built with empathy, clarity, and purpose."</i>
-
+<p align="center">
+  <b>
+    إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ
+  </b>
+</p>
+<p align="center">
+  <i>
+    "Indeed, Allah loves if one of you does a job, he does it with excellence."<br>
+    — Hadith (Shu'ab al-Iman, Hadith 5313)
+  </i>
 </p>
 
 #
@@ -179,6 +192,8 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 </div>
 
 ##
+
+<h3 align="left">🐍 Snake Corner (Contribution)</h3>
 
 <br clear="both">
 
