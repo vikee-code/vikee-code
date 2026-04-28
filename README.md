@@ -1,12 +1,14 @@
+<!-- MAIN HEADER SECTION -->
 <h2 align="left">Hi!👋 My name is Rafif and I'm a System Analyst, from the "Big Durian" (Jakarta) </h2>
-
+<!-- AUTO-TYPE SECTION -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7768E&center=true&vCenter=true&width=600&lines=Nice+to+Meet+You+!;System+Analyst;Bridging+Business+%26+Technology;Aspiring+Software+Engineer;Let's+Connect+^^" />
 </div>
-
+<!-- HEADER SECTION -->
 <h3 align="left">ℹ️  About Me</h3>
 
 ###
+<!-- INFO DETAIL SECTION -->
 <p align="left">
 🧑‍💼 System Analyst @ Bina Nusantara IT Division  | 🎓 Information Systems Graduate Class of 2025 – BINUS University  
 
@@ -34,7 +36,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 </p>
 
 <h3 align="left">🌿 Tranquility </h3>
-
+<!-- GIF SECTION -->
 <p align="center">
 <a href="./assets/cat_orange.gif">
   <img src="./assets/cat_orange.gif" width="1000"/>
@@ -47,7 +49,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 </sub>
 
 <br><br>
-
+<!-- QUOTES -->
 <p align="center">
   <b>
     إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ
@@ -61,7 +63,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 </p>
 
 #
-
+<!-- HEADER SECTION -->
 <h3 align="left">⚡ My Stats :</h3>
 
 ###
@@ -80,11 +82,11 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 </div>
 
 ###
-
+<!-- HEADER SECTION -->
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-<!-- ICONS -->
+<!-- TOOLS ICONS -->
 <div align="left">
   <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -168,35 +170,36 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 
 
 ###
-
+<!-- HEADER SECTION -->
 <h3 align="left">👤 Contact me</h3>
 
 ###
 <!-- CONTACT LOGO -->
+<!-- DISCORD ICON -->
 <div align="left">
   <a href="https://discord.com/users/1004182087953289276" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35"/>
   </a>
-  
+  <!-- EMAIL (GMAIL) ICON -->
   <a href="mailto:m.rafif.alhakim.prof@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
-  
+  <!-- LINKEDIN ICON -->
   <a href="https://www.linkedin.com/in/mrafif-alhakim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
-  
+  <!-- DEV.TO ICON -->
   <a href="https://dev.to/vikeecode" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="35"/>
   </a>
 </div>
 
 ##
-
+<!-- HEADER SECTION -->
 <h3 align="left">🐍 Snake Corner (Contribution)</h3>
 
 <br clear="both">
-
+<!-- GITHUB ACTION SNAKE ANIMATION TRIGGER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/vikee-code/vikee-code/output/snake-dark.svg" />
 </p>
