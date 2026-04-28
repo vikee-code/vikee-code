@@ -85,7 +85,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 
 ###
 <!-- HEADER SECTION -->
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 <!-- TOOLS ICONS -->
