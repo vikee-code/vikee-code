@@ -35,6 +35,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 - 🏅 Finalist – Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi (GEMASTIK) XV & XVI, ISFest 2023 2nd Place Winner <br>
 </p>
 
+<br>
 <h3 align="left">🌿 Tranquility </h3>
 <!-- GIF SECTION -->
 <p align="center">
@@ -61,6 +62,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
     — Hadith (Shu'ab al-Iman, Hadith 5313)
   </i>
 </p>
+<br>
 
 #
 <!-- HEADER SECTION -->
