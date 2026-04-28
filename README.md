@@ -36,7 +36,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
 </p>
 
 <br>
-<h3 align="left">🌿 Tranquility </h3>
+<h3 align="left">🌿 Tranquility Zone </h3>
 <!-- GIF SECTION -->
 <p align="center">
 <a href="./assets/cat_orange.gif">
@@ -144,7 +144,7 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="30" alt="appwrite logo"  />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
   <img width="12" />
@@ -167,6 +167,44 @@ While my GitHub may not yet fully reflect my technical capabilities, I’m activ
   <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="gcp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobe illustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="github actions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="next.js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="node.js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express.js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vs code logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visual studio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellij idea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=devto" height="30" alt="dev.to logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spotify" height="30" alt="spotify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="gmail logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
 </div>
 
 
