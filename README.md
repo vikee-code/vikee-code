@@ -17,10 +17,10 @@ Right now, I'm shifting gears to get my hands dirty with more code. While my Git
 
 <br> What I bring to the table:
 - 📊 Analysis: SDLC, UI/UX, & Business Process Improvement.
-- 🛠️ Technical: SQL, Project Management, QA-Testing, API logic, & Database Management.
+- 🛠️ Technical: SQL, Project Management, QA-Testing, Basic Coding (API, Backend logic, debugging) & Database Management.
 - 🧠 Mindset: Root-cause driven & Design Thinking enthusiast. <br>
 
-<br> Always open to collaborating on meaningful projects! 😁 <br>
+<br> Always open to collaborating on meaningful projects! 😁🙌 <br>
 </p>
 
 <br>
