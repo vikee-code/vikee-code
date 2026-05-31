@@ -70,7 +70,7 @@ Right now, I'm shifting gears to get my hands dirty with more code. While my Git
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vikee-code&theme=dracula&hide_border=true" height="200"/>
 </div>
-###
+
 <!-- HEADER SECTION -->
 <h3 align="left">🛠 Language and Tools</h3>
 
