@@ -64,7 +64,7 @@ Right now, I'm shifting gears to get my hands dirty with more code. While my Git
 <!-- STATS -->
 <div align="center">
   <img src="https://github-readme-stats-mu-rose.vercel.app/api?username=vikee-code&show_icons=true&theme=dracula&hide_border=true" height="200"/> 
-  <img src="https://github-readme-stats-mu-rose.vercel.app/api/top-langs?username=vikee-code&layout=compact&theme=dracula&hide_border=true" height="200"/> 
+  <img src="https://github-readme-stats-mu-rose.vercel.app/api/top-langs?username=vikee-code&layout=compact&theme=dracula&hide_border=true&v=2" height="200"/>
 </div>
 <!-- STREAK -->
 <div align="center">
