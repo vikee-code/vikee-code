@@ -24,7 +24,7 @@ Right now, I'm shifting gears to get my hands dirty with more code. While my Git
 </p>
 
 <br>
-<h3 align="left">🌿 Tranquility Zone </h3>
+<h3 align="left">🌿 Tranquility Zone - ZEN </h3>
 <!-- GIF SECTION -->
 <p align="center">
 <a href="./assets/cat_orange.gif">
